@@ -1,7 +1,7 @@
 ---
 title: What is included with the scholarship?
 date: 2017-09-22 21:43:00 +0000
-categories: cost
+categories: Cost
 ---
 
 Here's what is included with a TrueCoders scholarship:
