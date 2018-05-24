@@ -19,3 +19,5 @@ fields:
     description: e.g. https://facebook.com/username
     config:
       required: true
+  config:
+    labelField: title
