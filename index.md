@@ -11,7 +11,7 @@ hero:
     url: https://player.vimeo.com/video/234034039
   color: "#0093c9"
 sections:
-- template: section-partial-collection
+- template: partial-collection-items
   sub_collection: courses
   limit: '3'
   title: Our Courses
@@ -20,7 +20,7 @@ sections:
     url: "/courses"
   body: We have experience in many different technology stacks. Here's some of the
     courses we currently offer.
-- template: section-partial-sections
+- template: partial-sections
   subsections:
   - title: Training
     icon: Code
@@ -37,12 +37,12 @@ sections:
   title: Our Process
   body: We have decades of experience to lean on as we train and mentor the next generation
     of amazing coders.
-- template: section-partial-collection
+- template: partial-collection-items
   sub_collection: employers
   limit: '3'
   title: Our Employers
   body: We've seen many of our students already placed in jobs with some great companies.
-- template: section-partial-collection
+- template: partial-collection-items
   sub_collection: team
   limit: '3'
   title: Our Team
