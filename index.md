@@ -52,6 +52,12 @@ sections:
     url: "/about"
   body: We are TrueCoders. We believe that smart, passionate people should always
     be engaged, doing what they love to do.
+  test_blocks:
+  - template: partial-team-items
+    team_collection:
+    - _team/daniel-walsh.md
+    - _team/cody-winton.md
+    - _team/martin-murphy.md
 call_to_action:
   title: ''
   url: ''
