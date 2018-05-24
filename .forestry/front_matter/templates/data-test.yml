@@ -13,5 +13,3 @@ fields:
     config:
       required: true
   description: General testing data
-data_files:
-- _data/test.yml
