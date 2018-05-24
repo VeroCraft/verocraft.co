@@ -9,5 +9,8 @@ fields:
   - type: text
     name: title
     label: Title
+    description: Display title for description
+    config:
+      required: true
 data_files:
 - _data/test.yml
