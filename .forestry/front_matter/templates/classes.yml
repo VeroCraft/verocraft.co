@@ -24,7 +24,7 @@ fields:
     required: true
   label: Course
   description: Associated course focus
-  default: _courses/c-sharp.md
+  default: _courses/developer-accelerator.md
 - name: start_date
   label: Start Date
   type: datetime
@@ -53,6 +53,19 @@ fields:
     min: '0'
     required: true
     step: '1'
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - One-Time
+    - Monthly
+    - Annually
+  label: Billing Period
+  name: billing_period
+  description: The period for billing the student
+  default: One-Time
 - name: has_scholarship
   label: Scholarship Available
   type: boolean

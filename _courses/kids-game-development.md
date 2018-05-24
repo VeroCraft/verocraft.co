@@ -1,5 +1,5 @@
 ---
-title: Python for Kids
+title: Kids Game Development
 date: 2017-09-11 20:04:00 +0000
 hero:
   color: "#1C425D"
@@ -10,7 +10,7 @@ subjects:
 - _subjects/python.md
 - _subjects/game-development.md
 ---
-This course covers building games using Python.
+Learn to build awesome games using Python.
 
 In this day and age, programming is becoming more and more relevant to every level of education. This course gives kids an introduction to basic programming and game development using Python, a fun and popular programming language.
 

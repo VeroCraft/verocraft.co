@@ -1,7 +1,7 @@
 ---
 title: Can I fail the course?
 date: 2017-09-22 21:42:00 +0000
-categories: courses
+categories: Courses
 ---
 
 It is in the best interest of TrueCoders to make sure you graduate the course with flying colors. However, there are several ways you can fail the course:

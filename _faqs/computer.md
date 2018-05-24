@@ -1,7 +1,7 @@
 ---
 title: Do you provide a computer to your students?
 date: 2017-09-22 21:40:00 +0000
-categories: courses
+categories: Courses
 ---
 
 This course is BYOC (bring your own computer).

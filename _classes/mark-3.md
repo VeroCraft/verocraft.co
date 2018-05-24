@@ -1,7 +1,7 @@
 ---
 title: Mark 3
 date: 2018-01-17 16:00:00 +0000
-course: _courses/c-sharp.md
+course: _courses/developer-accelerator.md
 start_date: 2018-04-02 13:00:00 +0000
 end_date: 2018-05-25 19:00:00 +0000
 price: 7500
@@ -11,6 +11,7 @@ institution: TrueCoders
 stats:
   students_placed: ''
   average_salary: ''
+billing_period: One-Time
 ---
 
 Focus on C# and .NET, including:

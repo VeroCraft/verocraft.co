@@ -1,0 +1,107 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: field_group
+  name: info
+  label: Information
+  fields:
+  - type: text
+    name: email
+    label: Email
+    config:
+      required: true
+    description: Company email
+  - type: text
+    name: full_name
+    label: Legal Name
+    description: Legal company name
+    config:
+      required: true
+  - type: text
+    name: phone
+    label: Phone Number
+    description: e.g. 12055555555
+    config:
+      required: true
+  - type: text
+    name: display_phone
+    label: Display Phone
+    description: e.g. (205) 555-5555
+    config:
+      required: true
+  - type: field_group
+    label: Location
+    name: location
+    description: Company HQ location
+    fields:
+    - type: text
+      label: Address
+      name: address
+      description: Street address including unit number
+      config:
+        required: true
+    - type: text
+      label: City
+      name: city
+      config:
+        required: true
+    - type: text
+      name: region
+      label: State
+      config:
+        required: true
+      description: e.g. AL
+    - type: text
+      name: postal_code
+      label: Zip Code
+      config:
+        required: true
+    - type: text
+      name: country_code
+      label: Country
+      description: e.g. US
+      default: US
+      config:
+        required: true
+  - type: text
+    name: ga_tracking_id
+    label: Google Analytics Tracking ID
+    description: e.g UA-123456789-1
+  - type: text
+    name: theme_color
+    label: Theme Color
+    description: 'e.g. #FFFFFF'
+    config:
+      required: true
+  - type: textarea
+    name: email_signup_copy
+    label: Email Signup Copy
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+    description: Displayed below the sign up email/button for the Mailchimp Form
+  - type: field_group
+    name: classes_cta
+    label: Classes CTA
+    description: Call to Action for classes
+    fields:
+    - type: text
+      name: url
+      label: URL
+      config:
+        required: true
+    - type: text
+      label: Title
+      name: title
+    - type: textarea
+      name: body
+      label: Body
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
+  description: General Company/Site Information
+data_files:
+- _data/info.yml

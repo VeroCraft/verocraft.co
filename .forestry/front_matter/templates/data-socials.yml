@@ -1,0 +1,25 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: field_group_list
+  name: socials
+  label: Socials
+  description: Social and online accounts
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: e.g. Facebook
+    config:
+      required: true
+  - type: text
+    label: URL
+    name: url
+    description: e.g. https://facebook.com/username
+    config:
+      required: true
+  config:
+    labelField: title
+data_files:
+- _data/socials.yml

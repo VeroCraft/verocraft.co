@@ -7,7 +7,7 @@ hero:
   image: "/uploads/hero-image-9.jpg"
   color: "#0093c9"
 sections:
-- template: section-partial-sections
+- template: partial-sections
   title: Our Team
   subsections:
   - icon: Terminal
@@ -27,7 +27,7 @@ sections:
     url: "#hire-form"
   body: We are all about team work. From small to large projects, we ensure that the
     right individual is working on every step.
-- template: section-partial-sections
+- template: partial-sections
   title: Our Process
   subsections:
   - title: Project Management
@@ -47,7 +47,7 @@ sections:
   call_to_action:
     title: Engage Our Process
     url: "#hire-form"
-- template: section-partial-sections
+- template: partial-sections
   title: Our Cost
   subsections:
   - title: Individual Hire

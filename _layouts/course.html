@@ -21,11 +21,12 @@ layout: page
 
     {%- if next_class -%}
     {% assign next_class_start = next_class.start_date | date: "%B %e" -%}
-    {%- assign course_details = "Our next !PAGE_TITLE! class starts on !NEXT_CLASS_START! and will cost !NEXT_CLASS_PRICE!. However, we do offer course financing that you can take advantage of. More details coming soon." -%}
+    {%- assign course_details = "Our next !PAGE_TITLE! class starts on !NEXT_CLASS_START! and will cost !NEXT_CLASS_PRICE!, billed !NEXT_CLASS_BILLING_PERIOD!. However, we do offer course financing that you can take advantage of. More details coming soon." -%}
     {%- assign course_details = course_details | replace: "!PAGE_TITLE!", page.title | replace: "!NEXT_CLASS_START!", next_class_start -%}
 
     {%- assign class_price = next_class.price | prepend: "$" -%}
-    {%- assign course_details = course_details | replace: "!NEXT_CLASS_PRICE!", class_price -%}
+    {%- assign class_billing_period = next_class.billing_period | downcase -%}
+    {%- assign course_details = course_details | replace: "!NEXT_CLASS_PRICE!", class_price | replace: "!NEXT_CLASS_BILLING_PERIOD!", class_billing_period -%}
 
     {{ course_details | markdownify }}
     {% endif -%}
