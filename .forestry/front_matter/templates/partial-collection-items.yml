@@ -44,8 +44,3 @@ fields:
   label: Call to Action
   template: partial-call-to-action
   description: ''
-- type: blocks
-  label: Test Blocks
-  name: test_blocks
-  template_types:
-  - partial-team-items
