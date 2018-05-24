@@ -2,8 +2,12 @@
 hide_body: false
 is_partial: false
 fields:
-- type: text
-  label: Title
-  name: title
+- type: group
+  label: Test
+  name: test
+  fields:
+  - type: text
+    label: Title
+    name: title
 data_files:
 - _data/test.yml
