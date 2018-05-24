@@ -102,5 +102,6 @@ fields:
         wysiwyg: true
         schema:
           format: markdown
+  description: General Company/Site Information
 data_files:
 - _data/info.yml
