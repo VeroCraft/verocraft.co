@@ -20,6 +20,12 @@ sections:
     url: "/courses"
   body: We have experience in many different technology stacks. Here's some of the
     courses we currently offer.
+  test_blocks:
+  - template: partial-team-items
+    team_collection:
+    - _team/daniel-walsh.md
+    - _team/cody-winton.md
+    - _team/martin-murphy.md
 - template: partial-sections
   subsections:
   - title: Training
