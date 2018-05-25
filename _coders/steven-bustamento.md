@@ -10,24 +10,24 @@ profiles:
   codewars: stbustamento
   vimeo_resume: ''
 skills:
-- name: Responsive Web Development
-  level: 3
-- name: HTML
-  level: 3
-- name: CSS
-  level: 3
-- name: JavaScript
-  level: 3
 - name: C# and .NET
-  level: 3
+  level: 4
+- name: Responsive Web Development
+  level: 4
+- name: HTML
+  level: 4.5
+- name: CSS
+  level: 4
+- name: JavaScript
+  level: 3.5
 - name: Java
   level: 3
 - name: ANSI SQL
-  level: 3
+  level: 4
 - name: PHP
-  level: 3
+  level: 4
 - name: Git
-  level: 3
+  level: 4
 work:
 - company: Hungry Howies
   job_title: Store Manager
