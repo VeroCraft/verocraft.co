@@ -8,7 +8,10 @@ profiles:
   github: privateporkers
   linkedin: david-cotton-b57027161
   codewars: privateporkers
+  vimeo_resume: ''
 skills:
+- name: C#
+  level: 3.5
 - name: Linux Kernel
   level: 3.5
 - name: Java
@@ -17,14 +20,12 @@ skills:
   level: 3
 - name: C
   level: 2
-- name: C#
-  level: 3
 - name: Python
   level: 2
 - name: HTML
-  level: 3
+  level: 3.5
 - name: CSS
-  level: 3
+  level: 3.5
 - name: Microsoft Word Certified
   level: 2
 work:
@@ -109,6 +110,7 @@ education:
   gpa: 
   location: Vestavia, AL
   body: Robotics, IT fundamentals, and Java Programming courses
+subtitle: ''
 ---
 
 My name is David Cotton, I have been passionate about programming since the third grade when a friend of mine asked for help on a project. What fascinates me about programing is the  way I can  manipulate data and custom features to showcase anything I can imagine. Since then I have taught myself a various amount of programming languages and have worked on a great number projects utilizing my skill set and expanding my knowledge base. It is my desire to work for a company that I can be apart of a small team that is developing and helping to solve real world, everyday challenges.
