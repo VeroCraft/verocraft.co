@@ -8,23 +8,24 @@ profiles:
   github: reidbraswell1
   linkedin: reid-braswell
   codewars: reidbraswell
+  vimeo_resume: ''
 skills:
 - name: Java
   level: 4
 - name: C# and .NET
-  level: 3
+  level: 3.5
 - name: COBOL
-  level: 3
+  level: 5
 - name: RPG II
   level: 3
 - name: XSLT
   level: 3
 - name: HTML, CSS, & JavaScript
-  level: 3
-- name: 'Linux: Red Hat & Ubuntu'
-  level: 3
+  level: 3.5
+- name: Ubuntu Linux
+  level: 3.5
 - name: ANSI SQL
-  level: 3
+  level: 3.5
 - name: AWS
   level: 3
 work:
@@ -46,6 +47,7 @@ education:
 - institution: University of Alabama Birmingham
   area: Bachelor of Science in Computer Science
   location: Birmingham, AL
+subtitle: ''
 ---
 
 Software Engineer/Programmer Analyst with over 10 years of experience in Software Development, Support and Maintenance with the ability to design, develop and implement all aspects of a complex project.
