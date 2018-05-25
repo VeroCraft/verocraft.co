@@ -8,17 +8,18 @@ profiles:
   github: nutunjamai
   linkedin: skylar-carter-844050161
   codewars: nutunjamai
+  vimeo_resume: ''
 skills:
 - name: C# and .NET
-  level: 3
+  level: 3.5
 - name: Java
-  level: 3
+  level: 4
 - name: ANSI SQL
-  level: 3
+  level: 4
 - name: VBA
-  level: 3
+  level: 3.5
 - name: Git
-  level: 3
+  level: 4
 - name: Office Suite
   level: 5
 work:
@@ -60,6 +61,7 @@ education:
   start_date: 2001-03-01 06:00:00 +0000
   end_date: 2003-03-01 06:00:00 +0000
   location: Birmingham, AL
+subtitle: ''
 ---
 
 Innovative Information Technology (IT) Professional with a track record of applying knowledge of computer science and other computer related technologies to IT operations and infrastructures.   Reputation for taking pride in achieving the highest goals to define enterprise and technology strategies and solutions.  Valuable team member who possesses excellent communication skills and works well within a team environment to accomplish organizational goals.
