@@ -7,3 +7,4 @@ is_teacher: true
 image: "/uploads/chip-elmer.jpg"
 is_board_member: false
 ---
+Chip is a multi-stack developer with years of experience in C#, .NET, SQL, and many other dev stacks
