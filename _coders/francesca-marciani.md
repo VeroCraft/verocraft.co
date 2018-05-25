@@ -8,21 +8,22 @@ profiles:
   github: fmarciani
   linkedin: fmarciani
   codewars: fmarciani
+  vimeo_resume: ''
 skills:
 - name: C# and .NET
-  level: 3
+  level: 4
 - name: Java
   level: 3
 - name: Git
-  level: 3
+  level: 4
 - name: ANSI SQL
-  level: 3
+  level: 3.5
 - name: Quantitative Research
-  level: 3
+  level: 4.5
 - name: Python
   level: 3
 - name: R
-  level: 3
+  level: 2.5
 work:
 - company: University of Alabama at Birmingham
   job_title: Mathematics Tutor
@@ -111,6 +112,7 @@ education:
   gpa: 
   location: Oberlin, OH
   body: High Honors in Psychology
+subtitle: ''
 ---
 
 I'm a recovering research psychologist with a passion for problem-solving, logic, and interfacing with people I can learn from. Currently, I’m looking to dive feet-first into a software development job that will enable me to contribute to a greater societal good. My interest in programming originates from coding in SAS and R for data analysis, though I later taught myself some Python and took MOOCs to code small games and projects, during which I discovered a love of creating my own content. I am results-driven, a continuous learner, and motivated to improve the experiences of those around me in practical ways.
