@@ -111,12 +111,13 @@ layout: default
         {%- assign i_half = i | minus: 0.5 -%}
 
         {%- if level >= i -%}
-        <i class="fa fa-circle"></i>
+        <i class="fas fa-circle"></i>
         {%- elsif level >= i_half -%}
-        <i class="fa fa-adjust fa-flip-horizontal"></i>
+        <i class="fas fa-adjust"></i>
         {%- else -%}
-        <i class="fa fa-circle-o"></i>
+        <i class="far fa-circle"></i>
         {%- endif -%}
+
         {% endfor %}
       </p>
     </div>
