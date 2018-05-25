@@ -5,7 +5,7 @@ hero:
   color: "#1C425D"
   image: ''
 subtitle: Build games with Python
-image: "/uploads/python-logo.png"
+image: "/uploads/game-development.svg"
 subjects:
 - _subjects/python.md
 - _subjects/game-development.md

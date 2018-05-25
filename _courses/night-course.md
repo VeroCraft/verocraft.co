@@ -5,7 +5,7 @@ hero:
   color: "#690081"
   image: ''
 subtitle: Software Development Night Course
-image: "/uploads/java-logo.jpg"
+image: "/uploads/night-course.svg"
 subjects:
 - _subjects/c-sharp-dot-net.md
 - _subjects/java.md

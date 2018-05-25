@@ -5,7 +5,7 @@ hero:
   color: "#690081"
   image: ''
 subtitle: Training in Software Development
-image: "/uploads/c-sharp-logo.jpg"
+image: "/uploads/developer-accelerator.svg"
 subjects:
 - _subjects/c-sharp-dot-net.md
 - _subjects/java.md
