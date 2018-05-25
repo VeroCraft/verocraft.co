@@ -8,17 +8,18 @@ profiles:
   github: standridgejeff
   linkedin: jeff-standridge
   codewars: standridgejeff
+  vimeo_resume: ''
 skills:
 - name: C# and .NET
-  level: 3
+  level: 3.5
 - name: Java
-  level: 3
+  level: 2.5
 - name: ANSI SQL
-  level: 3
+  level: 3.5
 - name: HTML
-  level: 3
+  level: 3.5
 - name: CSS
-  level: 3
+  level: 3.5
 - name: Office Suite
   level: 4
 work:
@@ -56,6 +57,7 @@ education:
   area: Bachelor of Science
   end_date: 2005-05-01 06:00:00 +0000
   body: Major in Business Administration
+subtitle: ''
 ---
 
 In looking for a change from sales, I have been actively pursuing computer programming since 2014. My background in B2B sales cultivated excellent interpersonal skills, and a talent for developing and maintaining relationships with clients and coworkers was very valuable experience working as a part of a team. Passionate about technology and about learning.
