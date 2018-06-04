@@ -24,6 +24,6 @@ fields:
   description: e.g. Team
   default: classes
 pages:
-- about.md
-- courses.md
 - coders.md
+- courses.md
+- about.md
